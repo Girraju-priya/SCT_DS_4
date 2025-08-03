@@ -99,6 +99,3 @@ Analyze and visualize a large-scale U.S. traffic accident dataset to uncover key
 5. Open `Task04_Hotspots_Map.html` to explore accident hotspots interactively
 6. (Optional) Extend the analysis using ML models like Random Forest or Gradient Boosting
 
----
-
-Let me know if you want a **PDF version** of this summary or want me to help generate a **PowerPoint** or **Report** based on this task.
